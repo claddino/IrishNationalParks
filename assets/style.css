@@ -1,0 +1,8 @@
+#subnavcontainer a:hover, a:link#scurrent, a:visited#scurrent
+		    {color: #5C8F12;
+			background-color: #FF0000;
+			text-decoration: underline;
+			background-image: url(../images/corner.gif);
+            background-repeat: no-repeat;  
+			background-position: right bottom; 
+			font-weight:bold}
